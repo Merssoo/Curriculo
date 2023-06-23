@@ -16,6 +16,26 @@ header{
     
 }
 
+.ig{
+    width: 50%;
+}
+
+.name{
+    width: 50%;
+    
+}
+
+.nome{
+    text-align: center;
+}
+
+.dev{
+    text-align: center;
+   
+    align-items: center;
+}
+
+
 header h1{
     border-bottom: solid 2px rgb(255, 255, 255);
     border-radius: 10px;
